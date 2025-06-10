@@ -1,8 +1,27 @@
-![image](https://github.com/user-attachments/assets/48901206-9db7-4363-8ca4-1fd2ffaed9b5)
+![image](https://github.com/user-attachments/assets/32a058cf-6e49-4c85-a012-0ad3573df86c)
 
-![image](https://github.com/user-attachments/assets/23f3e00d-57fd-420b-b1ec-4cf512c7a38c)
 
-![image](https://github.com/user-attachments/assets/e1b08820-c4a1-4d88-9300-8dccfcc41cd1)
 
-![image](https://github.com/user-attachments/assets/0eb2866c-0381-467d-a566-635121d75401)
+**Crop Yield Prediction**
+Crop Yield Prediction 🌾  
+Predicts **crop yield** based on **weather conditions, soil quality, rainfall, and temperature** using **machine learning**. Helps farmers optimize harvest timing & resource allocation.
+
+Project Overview  
+Agricultural productivity depends on several environmental factors. This project applies **data-driven insights** to estimate yield, supporting smart farming decisions.
+
+Technologies Used  
+ **Machine Learning Models:**  
+  - Linear Regression  
+  - Random Forest Regressor (80.2% Accuracy)  
+ **Data Processing:** Pandas, NumPy  
+ **Visualization:** Matplotlib, Seaborn  
+
+Features  
+ **Crop yield prediction based on climate & soil conditions**  
+ **Data-driven insights for farming efficiency**  
+ **Feature engineering for improved prediction accuracy**  
+
+Results  
+**Rainfall & soil quality** majorly impact crop yield.  
+**Random Forest model performed best**, achieving **80.2% accuracy**.  
 
